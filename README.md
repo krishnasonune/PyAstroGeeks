@@ -9,7 +9,7 @@ A perfect python package for those who love astrology stuff and always want to s
 Install my PyAstroGeek Package using pip
 
 ```bash
-  pip install PyAstroGeek
+  pip install PyAstroGeeks
 ```
     
 ## Usage/Examples

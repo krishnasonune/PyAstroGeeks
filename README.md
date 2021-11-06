@@ -1,12 +1,12 @@
 
-# PyAstroGeek Package
+# PyAstroGeeks Package
 
 A perfect python package for those who love astrology stuff and always want to stay up-to-date about their horoscopes
 
 
 ## Installation
 
-Install my PyAstroGeek Package using pip
+Install my PyAstroGeeks Package using pip
 
 ```bash
   pip install PyAstroGeeks
@@ -16,7 +16,7 @@ Install my PyAstroGeek Package using pip
 
 ```python
 
-    from PyAstroGeek import horoscope as h
+    from PyAstroGeeks import horoscope as h
 
     h.get_yesterday_Horoscope(zodiac_sign='capricorn')
 

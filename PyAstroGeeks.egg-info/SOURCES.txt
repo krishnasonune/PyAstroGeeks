@@ -1,0 +1,10 @@
+License.txt
+README.md
+setup.py
+PyAstroGeeks/__init__.py
+PyAstroGeeks/horoscope.py
+PyAstroGeeks.egg-info/PKG-INFO
+PyAstroGeeks.egg-info/SOURCES.txt
+PyAstroGeeks.egg-info/dependency_links.txt
+PyAstroGeeks.egg-info/requires.txt
+PyAstroGeeks.egg-info/top_level.txt

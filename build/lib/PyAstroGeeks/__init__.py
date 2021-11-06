@@ -1,0 +1,1 @@
+from PyAstroGeeks import horoscope
